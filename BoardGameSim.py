@@ -1,5 +1,5 @@
 #Name: Aryan Patel
-#Student ID: 101260400
+
 
 #imports neccesary libraries
 import pygame
